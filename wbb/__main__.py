@@ -119,7 +119,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
+                url="https://github.com/OrochimaruBotz/WilliamButcherBot",
             ),
         ],
         [
@@ -128,7 +128,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="Support 👨", url="http://t.me/WBBSupport"
+                text="Support 👨", url="http://t.me/GojoSupportGroup"
             ),
         ],
         [
@@ -155,7 +155,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
+                url="https://github.com/OrochimaruBotz/WilliamButcherBot",
             ),
         ],
         [
